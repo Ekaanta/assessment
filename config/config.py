@@ -1,3 +1,3 @@
 BASE_URL = "https://practicesoftwaretesting.com"
-EMAIL = "kohani9893@gopicta.com"
-PASSWORD = "196608:y4Y9ABVS+shj"
+EMAIL = "kayadi3796@imfaya.com"
+PASSWORD = "K@yadi3796$Strong#Pass2025"
