@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Verify adding product to cart and updating quantity works correctly","14995","Test Add to Cart and Update Quantity","tests","Wed Jan 14 17:11:14 GMT+06:00 2026","passed","Wed Jan 14 17:11:29 GMT+06:00 2026","","test_add_to_cart","",""
-"Verify user can fill and submit contact form with all required fields","9989","Test Contact Form Submission","tests","Wed Jan 14 17:11:29 GMT+06:00 2026","passed","Wed Jan 14 17:11:39 GMT+06:00 2026","","test_contact_form","",""
-"Verify user can navigate to login page and submit login form","11118","Test User Login","tests","Wed Jan 14 17:11:39 GMT+06:00 2026","passed","Wed Jan 14 17:11:50 GMT+06:00 2026","","test_login","",""
+"Verify user can fill and submit contact form with all required fields","10103","Test Contact Form Submission","tests","Wed Jan 14 17:31:31 GMT+06:00 2026","passed","Wed Jan 14 17:31:41 GMT+06:00 2026","","test_contact_form","",""
+"Verify adding product to cart and updating quantity works correctly","15173","Test Add to Cart and Update Quantity","tests","Wed Jan 14 17:31:16 GMT+06:00 2026","passed","Wed Jan 14 17:31:31 GMT+06:00 2026","","test_add_to_cart","",""
+"Verify user can navigate to login page and submit login form","10406","Test User Login","tests","Wed Jan 14 17:31:41 GMT+06:00 2026","passed","Wed Jan 14 17:31:51 GMT+06:00 2026","","test_login","",""
